@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <!-- Full bleed: the maskable icon crops to a circle, so the pin sits inside the central 80%. -->
+  <rect width="512" height="512" fill="#047857"/>
+  <path d="M256 100c-68 0-122 53-122 120 0 88 122 196 122 196s122-108 122-196c0-67-54-120-122-120z" fill="#ffffff"/>
+  <circle cx="256" cy="220" r="52" fill="#047857"/>
+  <path d="M230 220h52M256 194v52" stroke="#ffffff" stroke-width="16" stroke-linecap="round"/>
+</svg>
